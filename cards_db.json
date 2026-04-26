@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "Swiggy HDFC Bank Credit Card",
+    "annual_fee": 500,
+    "fee_waived_on_spend": 200000,
+    "base_reward_rate": 0.01,
+    "accelerated_categories": {
+      "Swiggy": 0.10,
+      "Dining (other than Swiggy)": 0.05,
+      "Online Shopping": 0.05
+    },
+    "milestone_benefits": [
+      {"spend": 200000, "benefit": "Swiggy One Membership (3 months)"}
+    ],
+    "key_benefits": ["Swiggy One membership", "Discount on Swiggy orders", "Forex Markup 3.5%"]
+  },
+  {
+    "name": "Airtel Axis Bank Credit Card",
+    "annual_fee": 500,
+    "fee_waived_on_spend": 200000,
+    "base_reward_rate": 0.01,
+    "accelerated_categories": {
+      "Airtel Bills": 0.25,
+      "Dining": 0.10,
+      "Swiggy / Zomato": 0.10,
+      "Utility Bills": 0.10
+    },
+    "milestone_benefits": [],
+    "key_benefits": ["Airtel Thanks benefits", "Cashback on bill payments", "Airport Lounge Access (Domestic)"]
+  },
+  {
+    "name": "HDFC Bank Regalia Gold Credit Card",
+    "annual_fee": 2500,
+    "fee_waived_on_spend": 400000,
+    "base_reward_rate": 0.01,
+    "accelerated_categories": {
+      "Dining": 0.02,
+      "Travel": 0.02,
+      "International Spends": 0.02,
+      "Online Shopping (preferred merchants)": 0.05
+    },
+    "milestone_benefits": [
+      {"spend": 150000, "benefit": "2500 Reward Points"},
+      {"spend": 300000, "benefit": "5000 Reward Points"},
+      {"spend": 450000, "benefit": "7500 Reward Points"},
+      {"spend": 600000, "benefit": "10000 Reward Points"}
+    ],
+    "key_benefits": ["Complimentary Airport Lounge Access (Domestic & International)", "Golf Program", "Concierge Services"]
+  },
+  {
+    "name": "SBI Elite Credit Card",
+    "annual_fee": 4999,
+    "fee_waived_on_spend": 1000000,
+    "base_reward_rate": 0.005,
+    "accelerated_categories": {
+      "Dining": 0.025,
+      "Departmental Stores": 0.025,
+      "Grocery": 0.025,
+      "International Spends": 0.05
+    },
+    "milestone_benefits": [
+      {"spend": 300000, "benefit": "10000 Bonus Reward Points"},
+      {"spend": 400000, "benefit": "10000 Bonus Reward Points"},
+      {"spend": 500000, "benefit": "15000 Bonus Reward Points"}
+    ],
+    "key_benefits": ["Complimentary Movie Tickets", "International Lounge Access", "Concierge Services", "Priority Pass"]
+  }
+]
